@@ -37,3 +37,9 @@ public class Main {
         System.out.println(resultToDivide);
     }
 }
+// The magic potion (resultToDivide) is the smallest number that we need to divide out to make the number a perfect square.
+// Find the factors of the number.
+// Check if each factor has an odd or even count:
+// If odd, add it to the number you’ll divide.
+// Print the result: This is the smallest number to divide out to make it a perfect square!
+
